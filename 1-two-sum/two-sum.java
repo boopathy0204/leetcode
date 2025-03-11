@@ -11,12 +11,3 @@ class Solution {
          return new int[]{};
     }
 }
-public class sum{
-    public static void main (String[] args){
-        Scanner s =new Scanner (System.in);
-        int nums[]={2,5,5,11};
-        int target=s.nextInt();
-        Solution sol=new Solution();
-        sol.twoSum(nums,target);
-    }
-}
