@@ -1,6 +1,5 @@
 class Solution {
     public int numIdenticalPairs(int[] nums) {
-        Arrays.sort(nums);
         int n=nums.length;
         int count=0;
         for(int i=0;i<n-1;i++){
