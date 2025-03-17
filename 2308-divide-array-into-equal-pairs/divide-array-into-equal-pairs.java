@@ -3,10 +3,6 @@ class Solution {
         int n=nums.length;
         int count=0;
         Arrays.sort(nums);
-        if(n%2!=0){
-            return false;
-        }
-        else{
             for(int i=0;i<n;i+=count){
                 count =0;
                 for(int j=i;j<n;j++){
@@ -18,7 +14,6 @@ class Solution {
                     return false;
                 }
             }
-        }
         return true;
     }
 }
