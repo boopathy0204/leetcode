@@ -6,7 +6,7 @@ class Solution {
         int max=0;
         List<Character> list=new ArrayList<>();
        while(end<ch.length){
-        if(!list.contains(ch[end])){
+        if(!(list.contains(ch[end]))){
             list.add(ch[end]);
             end++;
             max=Math.max(max,list.size());
