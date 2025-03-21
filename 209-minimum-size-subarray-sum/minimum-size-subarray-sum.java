@@ -5,14 +5,13 @@ class Solution {
         int end=0;
         int min =Integer.MAX_VALUE;
         int sum=0;
-        while(end<n){
+        for(end=0;end<n;end++){
             sum+=nums[end];         
             while(sum>=target){
                 min=Math.min(min,end-st+1);
                 sum-=nums[st];
                 st++;
             }
-            end++;
         }
         if(min==Integer.MAX_VALUE) return 0;
         return min;
