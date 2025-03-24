@@ -10,7 +10,7 @@ class Solution {
     }
     pre[0]=0;
      sum=nums[n-1]+sum;
-    for(int i=0;i<n;i++){
+    for(int i=0;i<n-1;i++){
         sum-=nums[i];
         suf[i]=sum;
     }
