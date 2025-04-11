@@ -14,11 +14,8 @@ class Solution {
             else if(mp.get(i)%3==0){
                 count+= mp.get(i)/3;
             }
-            else if(mp.get(i)%3!=0){
-                int n= mp.get(i)%3;
-                if(n>0){
+            else{
                     count+=mp.get(i)/3+1;
-                }
                 }
             }
         return count;
