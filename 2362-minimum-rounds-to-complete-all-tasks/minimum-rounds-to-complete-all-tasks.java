@@ -11,22 +11,16 @@ class Solution {
             if(mp.get(i)==1){
                 return -1;
             }
-            if(mp.get(i)%3==0){
+            else if(mp.get(i)%3==0){
                 count+= mp.get(i)/3;
             }
             else if(mp.get(i)%3!=0){
                 int n= mp.get(i)%3;
-                if(n==2){
+                if(n>0){
                     count+=mp.get(i)/3+1;
                 }
-                else{
-                    {
-                    int s=mp.get(i)/3;
-                    count+=s+1;
-                    }
                 }
             }
-        }
         return count;
     }
 }
