@@ -1,6 +1,5 @@
 class Solution {
     public int findLucky(int[] arr) {
-        ArrayList<Integer> list=new ArrayList<>();
         Map<Integer,Integer> mp=new HashMap<>();
         for(int i:arr){
             mp.put(i,mp.getOrDefault(i,0)+1);
