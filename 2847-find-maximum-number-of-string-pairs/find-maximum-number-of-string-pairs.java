@@ -7,6 +7,7 @@ class Solution {
                 sb.reverse();
                 if(i.equals(sb.toString())){
                     c++;
+                    break;
                 }
             }
             k++;
