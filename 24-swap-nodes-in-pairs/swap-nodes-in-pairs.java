@@ -12,8 +12,6 @@ class Solution {
     public ListNode swapPairs(ListNode head) {
        ListNode dummy = new ListNode(0);
         dummy.next = head;
-
-        // This will be used to traverse the list
         ListNode current = dummy;
         while (current.next != null && current.next.next != null) {
             ListNode first = current.next;
