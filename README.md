@@ -9,4 +9,20 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/boopathy0204/leetcode/tree/master/0060-permutation-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/boopathy0204/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/boopathy0204/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/boopathy0204/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/boopathy0204/leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
