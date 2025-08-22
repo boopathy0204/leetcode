@@ -14,31 +14,15 @@
  * }
  */
 class Solution {
-    ArrayList<Integer> list= new ArrayList<>();
-    ArrayList<Integer> list1= new ArrayList<>();
     public boolean isSymmetric(TreeNode root) {
-        if(root == null || root.left ==null && root.right == null) return true;
-        if(root.left == null || root.right == null) return false;
-        is(root.left);
-        is1(root.right);
-        for( int i=0;i<list.size();i++){
-            if(list.get(i) != list1.get(i)) return false;
-        }
-        return true;
+        if(root==null) return true;
+        return isMirror(root.left,root.right);
     }
-    public  void is(TreeNode root){
-        if(root != null){
-            list.add(root.val);
-            is(root.left);
-            is(root.right);
-        }
-        list.add(100);
-    }
-    public  void is1(TreeNode root){
-        if(root != null){
-            list1.add(root.val);
-            is1(root.right);
-            is1(root.left);
-        }list1.add(100);
+    public static boolean isMirror(TreeNode p,TreeNode q){
+        if (p == null && q == null) return true;
+        if (p == null || q == null) return false;
+        return (p.val == q.val) && 
+               isMirror(p.left, q.right) && 
+               isMirror(p.right, q.left);
     }
 }
