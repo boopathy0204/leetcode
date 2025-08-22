@@ -21,9 +21,6 @@ class Solution {
         if(root.left == null || root.right == null) return false;
         is(root.left);
         is1(root.right);
-        for(int i:list) System.out.print(i+" ");
-        System.out.println();
-        for(int i:list1) System.out.print(i+" ");
         for( int i=0;i<list.size();i++){
             if(list.get(i) != list1.get(i)) return false;
         }
