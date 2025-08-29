@@ -42,4 +42,8 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/boopathy0204/leetcode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/boopathy0204/leetcode/tree/master/0226-invert-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0262-trips-and-users](https://github.com/boopathy0204/leetcode/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
