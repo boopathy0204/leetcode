@@ -45,5 +45,6 @@
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/boopathy0204/leetcode/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/boopathy0204/leetcode/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
