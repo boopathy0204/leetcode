@@ -50,5 +50,6 @@
 | [0185-department-top-three-salaries](https://github.com/boopathy0204/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/boopathy0204/leetcode/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/boopathy0204/leetcode/tree/master/0262-trips-and-users) |
+| [0585-investments-in-2016](https://github.com/boopathy0204/leetcode/tree/master/0585-investments-in-2016) |
 | [0607-sales-person](https://github.com/boopathy0204/leetcode/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
