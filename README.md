@@ -52,4 +52,5 @@
 | [0262-trips-and-users](https://github.com/boopathy0204/leetcode/tree/master/0262-trips-and-users) |
 | [0585-investments-in-2016](https://github.com/boopathy0204/leetcode/tree/master/0585-investments-in-2016) |
 | [0607-sales-person](https://github.com/boopathy0204/leetcode/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/boopathy0204/leetcode/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
