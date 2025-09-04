@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/boopathy0204/leetcode/tree/master/0011-container-with-most-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/boopathy0204/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,4 +67,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/boopathy0204/leetcode/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/boopathy0204/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/boopathy0204/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
