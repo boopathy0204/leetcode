@@ -54,4 +54,16 @@
 | [0607-sales-person](https://github.com/boopathy0204/leetcode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/boopathy0204/leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/boopathy0204/leetcode/tree/master/0620-not-boring-movies) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/boopathy0204/leetcode/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/boopathy0204/leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/boopathy0204/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
