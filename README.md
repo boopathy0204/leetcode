@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/boopathy0204/leetcode/tree/master/0060-permutation-sequence) |
+| [2812-find-the-maximum-achievable-number](https://github.com/boopathy0204/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Recursion
 |  |
 | ------- |
