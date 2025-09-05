@@ -60,6 +60,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/boopathy0204/leetcode/tree/master/0011-container-with-most-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/boopathy0204/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [2058-concatenation-of-array](https://github.com/boopathy0204/leetcode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/boopathy0204/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/boopathy0204/leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
