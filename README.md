@@ -56,6 +56,7 @@
 | [0610-triangle-judgement](https://github.com/boopathy0204/leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/boopathy0204/leetcode/tree/master/0620-not-boring-movies) |
 | [1415-students-and-examinations](https://github.com/boopathy0204/leetcode/tree/master/1415-students-and-examinations) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/boopathy0204/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
 | ------- |
