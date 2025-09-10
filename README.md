@@ -60,6 +60,7 @@
 | [1625-group-sold-products-by-the-date](https://github.com/boopathy0204/leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1837-daily-leads-and-partners](https://github.com/boopathy0204/leetcode/tree/master/1837-daily-leads-and-partners) |
 | [1948-rearrange-products-table](https://github.com/boopathy0204/leetcode/tree/master/1948-rearrange-products-table) |
+| [2041-the-latest-login-in-2020](https://github.com/boopathy0204/leetcode/tree/master/2041-the-latest-login-in-2020) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/boopathy0204/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3816-dna-pattern-recognition](https://github.com/boopathy0204/leetcode/tree/master/3816-dna-pattern-recognition) |
 ## Array
