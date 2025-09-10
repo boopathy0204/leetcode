@@ -1,5 +1,5 @@
 SELECT
-    id,
+    DISTINCT id,
     MAX(CASE WHEN month='Jan' THEN revenue ELSE null END) AS Jan_Revenue,
     MAX(CASE WHEN month='Feb' THEN revenue ELSE null END) AS Feb_Revenue,
     MAX(CASE WHEN month='Mar' THEN revenue ELSE null END) AS Mar_Revenue,
