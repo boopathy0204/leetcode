@@ -55,6 +55,7 @@
 | [0607-sales-person](https://github.com/boopathy0204/leetcode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/boopathy0204/leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/boopathy0204/leetcode/tree/master/0620-not-boring-movies) |
+| [1301-reformat-department-table](https://github.com/boopathy0204/leetcode/tree/master/1301-reformat-department-table) |
 | [1415-students-and-examinations](https://github.com/boopathy0204/leetcode/tree/master/1415-students-and-examinations) |
 | [1523-capital-gainloss](https://github.com/boopathy0204/leetcode/tree/master/1523-capital-gainloss) |
 | [1625-group-sold-products-by-the-date](https://github.com/boopathy0204/leetcode/tree/master/1625-group-sold-products-by-the-date) |
