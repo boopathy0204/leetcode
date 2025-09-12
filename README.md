@@ -6,6 +6,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/boopathy0204/leetcode/tree/master/0060-permutation-sequence) |
 | [2812-find-the-maximum-achievable-number](https://github.com/boopathy0204/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3462-vowels-game-in-a-string](https://github.com/boopathy0204/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/boopathy0204/leetcode/tree/master/3194-find-words-containing-character) |
+| [3462-vowels-game-in-a-string](https://github.com/boopathy0204/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,4 +111,12 @@
 |  |
 | ------- |
 | [0924-fair-candy-swap](https://github.com/boopathy0204/leetcode/tree/master/0924-fair-candy-swap) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/boopathy0204/leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/boopathy0204/leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
