@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/boopathy0204/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0389-find-the-difference](https://github.com/boopathy0204/leetcode/tree/master/0389-find-the-difference) |
 ## Tree
 |  |
 | ------- |
@@ -101,15 +102,18 @@
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/boopathy0204/leetcode/tree/master/0389-find-the-difference) |
 | [3194-find-words-containing-character](https://github.com/boopathy0204/leetcode/tree/master/3194-find-words-containing-character) |
 | [3462-vowels-game-in-a-string](https://github.com/boopathy0204/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/boopathy0204/leetcode/tree/master/0389-find-the-difference) |
 | [0924-fair-candy-swap](https://github.com/boopathy0204/leetcode/tree/master/0924-fair-candy-swap) |
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/boopathy0204/leetcode/tree/master/0389-find-the-difference) |
 | [0924-fair-candy-swap](https://github.com/boopathy0204/leetcode/tree/master/0924-fair-candy-swap) |
 ## Brainteaser
 |  |
