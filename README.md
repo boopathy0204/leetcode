@@ -103,6 +103,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/boopathy0204/leetcode/tree/master/0389-find-the-difference) |
+| [2887-sort-vowels-in-a-string](https://github.com/boopathy0204/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/boopathy0204/leetcode/tree/master/3194-find-words-containing-character) |
 | [3462-vowels-game-in-a-string](https://github.com/boopathy0204/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Hash Table
@@ -115,6 +116,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/boopathy0204/leetcode/tree/master/0389-find-the-difference) |
 | [0924-fair-candy-swap](https://github.com/boopathy0204/leetcode/tree/master/0924-fair-candy-swap) |
+| [2887-sort-vowels-in-a-string](https://github.com/boopathy0204/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Brainteaser
 |  |
 | ------- |
