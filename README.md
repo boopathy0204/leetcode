@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/boopathy0204/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0924-fair-candy-swap](https://github.com/boopathy0204/leetcode/tree/master/0924-fair-candy-swap) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/boopathy0204/leetcode/tree/master/0011-container-with-most-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/boopathy0204/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0924-fair-candy-swap](https://github.com/boopathy0204/leetcode/tree/master/0924-fair-candy-swap) |
 | [2058-concatenation-of-array](https://github.com/boopathy0204/leetcode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/boopathy0204/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3194-find-words-containing-character](https://github.com/boopathy0204/leetcode/tree/master/3194-find-words-containing-character) |
@@ -99,4 +101,12 @@
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/boopathy0204/leetcode/tree/master/3194-find-words-containing-character) |
+## Hash Table
+|  |
+| ------- |
+| [0924-fair-candy-swap](https://github.com/boopathy0204/leetcode/tree/master/0924-fair-candy-swap) |
+## Sorting
+|  |
+| ------- |
+| [0924-fair-candy-swap](https://github.com/boopathy0204/leetcode/tree/master/0924-fair-candy-swap) |
 <!---LeetCode Topics End-->
