@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/boopathy0204/leetcode/tree/master/0060-permutation-sequence) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/boopathy0204/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/boopathy0204/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3462-vowels-game-in-a-string](https://github.com/boopathy0204/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
