@@ -60,6 +60,7 @@
 | [0610-triangle-judgement](https://github.com/boopathy0204/leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/boopathy0204/leetcode/tree/master/0620-not-boring-movies) |
 | [1135-customers-who-bought-all-products](https://github.com/boopathy0204/leetcode/tree/master/1135-customers-who-bought-all-products) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/boopathy0204/leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1301-reformat-department-table](https://github.com/boopathy0204/leetcode/tree/master/1301-reformat-department-table) |
 | [1415-students-and-examinations](https://github.com/boopathy0204/leetcode/tree/master/1415-students-and-examinations) |
 | [1523-capital-gainloss](https://github.com/boopathy0204/leetcode/tree/master/1523-capital-gainloss) |
