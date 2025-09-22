@@ -62,6 +62,7 @@
 | [1135-customers-who-bought-all-products](https://github.com/boopathy0204/leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/boopathy0204/leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1301-reformat-department-table](https://github.com/boopathy0204/leetcode/tree/master/1301-reformat-department-table) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/boopathy0204/leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1415-students-and-examinations](https://github.com/boopathy0204/leetcode/tree/master/1415-students-and-examinations) |
 | [1523-capital-gainloss](https://github.com/boopathy0204/leetcode/tree/master/1523-capital-gainloss) |
 | [1625-group-sold-products-by-the-date](https://github.com/boopathy0204/leetcode/tree/master/1625-group-sold-products-by-the-date) |
