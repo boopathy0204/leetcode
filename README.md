@@ -66,6 +66,7 @@
 | [1523-capital-gainloss](https://github.com/boopathy0204/leetcode/tree/master/1523-capital-gainloss) |
 | [1625-group-sold-products-by-the-date](https://github.com/boopathy0204/leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1837-daily-leads-and-partners](https://github.com/boopathy0204/leetcode/tree/master/1837-daily-leads-and-partners) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/boopathy0204/leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1948-rearrange-products-table](https://github.com/boopathy0204/leetcode/tree/master/1948-rearrange-products-table) |
 | [2041-the-latest-login-in-2020](https://github.com/boopathy0204/leetcode/tree/master/2041-the-latest-login-in-2020) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/boopathy0204/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
