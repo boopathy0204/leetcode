@@ -57,6 +57,7 @@
 | [0262-trips-and-users](https://github.com/boopathy0204/leetcode/tree/master/0262-trips-and-users) |
 | [0577-employee-bonus](https://github.com/boopathy0204/leetcode/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/boopathy0204/leetcode/tree/master/0585-investments-in-2016) |
+| [0595-big-countries](https://github.com/boopathy0204/leetcode/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/boopathy0204/leetcode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/boopathy0204/leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/boopathy0204/leetcode/tree/master/0620-not-boring-movies) |
