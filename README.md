@@ -60,6 +60,7 @@
 | [0595-big-countries](https://github.com/boopathy0204/leetcode/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/boopathy0204/leetcode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/boopathy0204/leetcode/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/boopathy0204/leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/boopathy0204/leetcode/tree/master/0620-not-boring-movies) |
 | [1135-customers-who-bought-all-products](https://github.com/boopathy0204/leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/boopathy0204/leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
