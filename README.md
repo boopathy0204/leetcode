@@ -80,6 +80,7 @@
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/boopathy0204/leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1948-rearrange-products-table](https://github.com/boopathy0204/leetcode/tree/master/1948-rearrange-products-table) |
 | [2041-the-latest-login-in-2020](https://github.com/boopathy0204/leetcode/tree/master/2041-the-latest-login-in-2020) |
+| [2057-count-salary-categories](https://github.com/boopathy0204/leetcode/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/boopathy0204/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/boopathy0204/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3816-dna-pattern-recognition](https://github.com/boopathy0204/leetcode/tree/master/3816-dna-pattern-recognition) |
