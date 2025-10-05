@@ -69,6 +69,7 @@
 | [1153-product-sales-analysis-i](https://github.com/boopathy0204/leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/boopathy0204/leetcode/tree/master/1161-project-employees-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/boopathy0204/leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1278-product-price-at-a-given-date](https://github.com/boopathy0204/leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1301-reformat-department-table](https://github.com/boopathy0204/leetcode/tree/master/1301-reformat-department-table) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/boopathy0204/leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1415-students-and-examinations](https://github.com/boopathy0204/leetcode/tree/master/1415-students-and-examinations) |
