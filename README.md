@@ -93,6 +93,7 @@
 | [0011-container-with-most-water](https://github.com/boopathy0204/leetcode/tree/master/0011-container-with-most-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/boopathy0204/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0924-fair-candy-swap](https://github.com/boopathy0204/leetcode/tree/master/0924-fair-candy-swap) |
+| [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/boopathy0204/leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2058-concatenation-of-array](https://github.com/boopathy0204/leetcode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/boopathy0204/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3194-find-words-containing-character](https://github.com/boopathy0204/leetcode/tree/master/3194-find-words-containing-character) |
@@ -101,11 +102,13 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/boopathy0204/leetcode/tree/master/0011-container-with-most-water) |
+| [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/boopathy0204/leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/boopathy0204/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/boopathy0204/leetcode/tree/master/0011-container-with-most-water) |
+| [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/boopathy0204/leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 ## Stack
 |  |
 | ------- |
@@ -155,4 +158,8 @@
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/boopathy0204/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/boopathy0204/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## String Matching
+|  |
+| ------- |
+| [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/boopathy0204/leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 <!---LeetCode Topics End-->
