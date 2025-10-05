@@ -74,6 +74,7 @@
 | [1301-reformat-department-table](https://github.com/boopathy0204/leetcode/tree/master/1301-reformat-department-table) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/boopathy0204/leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1415-students-and-examinations](https://github.com/boopathy0204/leetcode/tree/master/1415-students-and-examinations) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/boopathy0204/leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1523-capital-gainloss](https://github.com/boopathy0204/leetcode/tree/master/1523-capital-gainloss) |
 | [1625-group-sold-products-by-the-date](https://github.com/boopathy0204/leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/boopathy0204/leetcode/tree/master/1664-find-users-with-valid-e-mails) |
