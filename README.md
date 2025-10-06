@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/boopathy0204/leetcode/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/boopathy0204/leetcode/tree/master/0060-permutation-sequence) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/boopathy0204/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/boopathy0204/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -133,6 +134,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/boopathy0204/leetcode/tree/master/0012-integer-to-roman) |
 | [0389-find-the-difference](https://github.com/boopathy0204/leetcode/tree/master/0389-find-the-difference) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/boopathy0204/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/boopathy0204/leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -142,6 +144,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/boopathy0204/leetcode/tree/master/0012-integer-to-roman) |
 | [0389-find-the-difference](https://github.com/boopathy0204/leetcode/tree/master/0389-find-the-difference) |
 | [0924-fair-candy-swap](https://github.com/boopathy0204/leetcode/tree/master/0924-fair-candy-swap) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/boopathy0204/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
