@@ -112,6 +112,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/boopathy0204/leetcode/tree/master/0011-container-with-most-water) |
+| [0925-long-pressed-name](https://github.com/boopathy0204/leetcode/tree/master/0925-long-pressed-name) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/boopathy0204/leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/boopathy0204/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Greedy
@@ -138,6 +139,7 @@
 | [0012-integer-to-roman](https://github.com/boopathy0204/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/boopathy0204/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0389-find-the-difference](https://github.com/boopathy0204/leetcode/tree/master/0389-find-the-difference) |
+| [0925-long-pressed-name](https://github.com/boopathy0204/leetcode/tree/master/0925-long-pressed-name) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/boopathy0204/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/boopathy0204/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/boopathy0204/leetcode/tree/master/3194-find-words-containing-character) |
