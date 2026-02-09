@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/boopathy0204/leetcode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/boopathy0204/leetcode/tree/master/0031-next-permutation) |
 | [0084-largest-rectangle-in-histogram](https://github.com/boopathy0204/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0766-toeplitz-matrix](https://github.com/boopathy0204/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0924-fair-candy-swap](https://github.com/boopathy0204/leetcode/tree/master/0924-fair-candy-swap) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/boopathy0204/leetcode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/boopathy0204/leetcode/tree/master/0031-next-permutation) |
 | [0925-long-pressed-name](https://github.com/boopathy0204/leetcode/tree/master/0925-long-pressed-name) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/boopathy0204/leetcode/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/boopathy0204/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
