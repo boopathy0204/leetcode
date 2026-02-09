@@ -101,6 +101,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/boopathy0204/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/boopathy0204/leetcode/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/boopathy0204/leetcode/tree/master/0046-permutations) |
 | [0084-largest-rectangle-in-histogram](https://github.com/boopathy0204/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0766-toeplitz-matrix](https://github.com/boopathy0204/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0924-fair-candy-swap](https://github.com/boopathy0204/leetcode/tree/master/0924-fair-candy-swap) |
@@ -188,4 +189,5 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/boopathy0204/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/boopathy0204/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
