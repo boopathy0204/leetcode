@@ -110,6 +110,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/boopathy0204/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3194-find-words-containing-character](https://github.com/boopathy0204/leetcode/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/boopathy0204/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3719-longest-balanced-subarray-i](https://github.com/boopathy0204/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [0924-fair-candy-swap](https://github.com/boopathy0204/leetcode/tree/master/0924-fair-candy-swap) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/boopathy0204/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/boopathy0204/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3719-longest-balanced-subarray-i](https://github.com/boopathy0204/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/boopathy0204/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -190,4 +192,16 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/boopathy0204/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/boopathy0204/leetcode/tree/master/0046-permutations) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/boopathy0204/leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/boopathy0204/leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/boopathy0204/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
